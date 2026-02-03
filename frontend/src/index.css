@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: block; /* Overrides Vite's flex center */
+  background-color: #f0f2f5;
+}
+
+#root {
+  width: 100%;
+}
